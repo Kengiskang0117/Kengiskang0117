@@ -1,7 +1,7 @@
 <h1 align="center">Hi there👋, I'm Kengis Florentino</h1>
 <h3 align="center">A beginner as a software developer, looking for new horizons in my learning</h3>
 
-### 💻 &nbsp;About Me   <img src="https://media.giphy.com/media/Yfl7CS7vQqnebA69aH/giphy.gif" width="60">
+
 - 🔭 I’m currently working on [Calculator Plus](https://github.com/Kengiskang0117/Final-Calculator-Papon.git)
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript**
