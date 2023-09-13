@@ -2,6 +2,7 @@
 <h3 align="center">A beginner as a software developer, looking for new horizons in my learning</h3>
 
 ### 💻 &nbsp;About Me   <img src="<iframe src="https://giphy.com/embed/TFPdmm3rdzeZ0kP3zG" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/glitch-internet-computer-TFPdmm3rdzeZ0kP3zG">via GIPHY</a></p>" width="60">
+
 - 🔭 I’m currently working on [Calculator Plus](https://github.com/Kengiskang0117/Final-Calculator-Papon.git)
 
 - 🌱 I’m currently learning **HTML,CSS,Javascript**
